@@ -36,6 +36,7 @@
 ### 桌面应用（推荐）
 
 - **macOS Universal**: `DuckCoding-macOS-Universal.dmg` (支持 Intel 和 Apple Silicon M1/M2/M3/M4/M5)
+  - 出现：“移到废纸篓“ 提示，请执行 `sudo xattr -rd com.apple.quarantine /Applications/DuckCoding.app`
 - **Windows x64**: `DuckCoding-Windows-x64-setup.exe` 或 `DuckCoding-Windows-x64.msi`
 - **Linux x64**:
   - Debian/Ubuntu: `DuckCoding-Linux-x64.deb`
